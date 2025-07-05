@@ -1,0 +1,32 @@
+# Core Data Science Libraries
+pandas>=2.0
+numpy>=1.23
+
+# Visualization
+matplotlib>=3.7
+
+# Machine Learning
+scikit-learn>=1.2
+xgboost>=1.7
+
+# Time Series & Bayesian Modeling
+pymc>=5.5
+arviz>=0.16
+
+# Dashboard
+streamlit>=1.27
+
+# Utilities (optional, but often helpful)
+optuna>=3.1
+
+# For reading/writing CSVs
+openpyxl>=3.1
+
+# If you use jupyter notebooks locally (optional)
+# jupyterlab
+
+# If you’re working on Windows and hit font issues (rare)
+# fonttools
+
+# If you use statsmodels (for SARIMAX)
+statsmodels>=0.14
